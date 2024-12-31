@@ -57,20 +57,13 @@ Honors
 ======
 2024             Junior Investigator Award, the Research Society on Alcoholism.
 2023             Special Prize of the President Scholarship of Chinese Academy of Sciences
-2022-2023    Merit Student, University of Chinese Academy of Sciences
+2022-2023        Merit Student, University of Chinese Academy of Sciences
 2022             Zhu Li Yuehua Outstanding Doctoral Scholarship, University of Chinese Academy of Sciences
-2021-2022    Merit Student, University of Chinese Academy of Sciences
+2021-2022        Merit Student, University of Chinese Academy of Sciences
 2020             National Scholarship, Ministry of Education of the People's Republic of China
 2019             Liu Ruiyu Marine Science Scholarship, University of Chinese Academy of Science
-2018-2019    Merit Student, University of Chinese Academy of Sciences
-2016-2017    Academic Excellence Scholarship, Qingdao University of Science and Technology
-2016-2017    Second Prize Scholarship, Qingdao University of Science and Technology
-2015-2016    Academic Excellence Scholarship, Qingdao University of Science and Technology
-2015-2016    Second Prize Scholarship, Qingdao University of Science and Technology
-2015-2016    Third Prize Scholarship, Qingdao University of Science and Technology
-2014-2015    Community Engagement Scholarship, Qingdao University of Science and Technology
-2014-2015    Third Prize Scholarship, Qingdao University of Science and Technology
-2013-2014    Third Prize Scholarship, Qingdao University of Science and Technology
+2018-2019        Merit Student, University of Chinese Academy of Sciences
+
 
 For more info
 ======
