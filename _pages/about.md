@@ -17,9 +17,13 @@ Overall, I have published 11 peer-reviewed journals as the first author, 5 co-au
 
 Email: xiaoqing.wang@louisville.edu
 
+
+
 Research Interests 
 ======
 Molecular biology, developmental toxicology, epigenetic regulation, CRISPR/Cas9 technology, human embryonic stem cells, cell techniques, high-throughput omics, artificial intelligence, machine learning and deep learning, computational toxicology, and zebrafish models
+
+
 
 Publications
 ======
@@ -42,12 +46,16 @@ Publications
 17. Meng XJ, Li F, Wang XQ, Liu JL, Ji CL, Wu HF. Combinatorial immune and stress response, cytoskeleton and signal transduction effects of graphene and triphenyl phosphate (TPP) in mussel Mytilus galloprovincialis. Journal of Hazardous Materials, 2019, 378: 120778. DOI: 10.1016/j.jhazmat.2019.120778.
 18. Wang XQ, Bai M, Liu J, Wang S, Chen SY. Prioritizing premising epigenetic therapeutic strategies for preventing fetal alcohol spectrum disorders through target representation learning (To be submitted).
 
+
+
 Patent and Book Chapters
 ======
 1. Wang XQ, Li F, Liu JL, Wu HF, Ji CL. Methods for assessing and predicting damage to simulated biofilms caused by organophosphate flame retardants, 2018.09.19; 201811094639.5, Invention patent, Authorized.
 2. Li F, Wang XQ, Teng YF. Chapter 38 QSAR models in marine ecotoxicology and risk assessment, QSAR in safety evaluation and risk assessment, edited by Hong H, Academic Press, 2023, 523-532.
 3. Li F, Wang XQ. Chapter 9 Computational toxicological prediction and evaluation of organophosphates, Exposure, toxicity mechanism and environmental risk assessment of organophosphates, edited by Wang Z and Xu Y, Science Press. 2019, 149-162.
 4. Wu HF, Li F, Ji CL, Lu Z, Sun T, Meng XJ, Wang S, Wang XQ. Chapter 14 Biotoxicity, bio-monitoring and ecological risks of offshore environmental pollutants (brominated flame retardants), Eco-environment and sustainable management in the coastal zone, edited by Luo Y, Science Press. 2021, 319-356.
+
+
 
 Conference Presentations
 ======
@@ -58,10 +66,14 @@ Conference Presentations
 5. The critical factors affecting typical organophosphate flame retardants to mimetic biomembrane by using electrochemical sensing and computational toxicology, The 10th National Conference On Environmental Chemistry Tianjin, China, 2019. (Poster)
 ……
 
+
+
 Positions and Membership of Professional Society
 ======
 10/2023 – Present    Postdoctoral Researcher, University of Louisville
 03/2024 – Present    Members of the Research Society on Alcoholism (RSA) (USA)
+
+
 
 Selected Honors
 ======
@@ -73,6 +85,7 @@ Selected Honors
 2020             National Scholarship, Ministry of Education of the People's Republic of China
 2019             Liu Ruiyu Marine Science Scholarship, University of Chinese Academy of Science
 2018-2019        Merit Student, University of Chinese Academy of Sciences
+
 
 
 For more info
