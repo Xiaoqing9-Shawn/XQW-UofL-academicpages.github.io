@@ -17,7 +17,7 @@ Overall, I have published 11 peer-reviewed journals as the first author, 5 co-au
 
 Email: xiaoqing.wang@louisville.edu
 
-Research interests 
+Research Interests 
 ======
 Molecular biology, developmental toxicology, epigenetic regulation, CRISPR/Cas9 technology, human embryonic stem cells, cell techniques, high-throughput omics, artificial intelligence, machine learning and deep learning, computational toxicology, and zebrafish models
 
@@ -63,7 +63,7 @@ Positions and Membership of Professional Society
 10/2023 – Present    Postdoctoral Researcher, University of Louisville
 03/2024 – Present    Members of the Research Society on Alcoholism (RSA) (USA)
 
-Honors
+Selected Honors
 ======
 2024             Junior Investigator Award, the Research Society on Alcoholism.
 2023             Special Prize of the President Scholarship of Chinese Academy of Sciences
